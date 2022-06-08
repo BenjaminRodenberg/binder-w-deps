@@ -1,4 +1,7 @@
 # binder-w-deps
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BenjaminRodenberg/binder-w-deps/HEAD)
+
 A simple example project to be used with binder. Requires some dependencies.
 
 ## Dependencies
